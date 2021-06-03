@@ -1,2 +1,7 @@
+<<<<<< other_details
 Roll: 2020101059
 Branch: CSE
+======
+Roll: 2020101059
+Branch: CSE
+>>>>>> main
